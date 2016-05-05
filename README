@@ -1,0 +1,4 @@
+node upload.js
+
+gcc ftpget_upload_file.c -o upload.bin -lcurl
+
